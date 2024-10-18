@@ -16,7 +16,7 @@ Well, Nese 11's RTM (with first release) is: 25H2 (which similar to Windows 11, 
 
 Orxan Muxtarov (software engineer at NeseOS Corporation)
 
-Elnur Temrazov (staff at NeseOS Corporation)
+Elnur Tamrazov (staff at NeseOS Corporation)
 
 Israfilova Aynura (os changer at NeseOS Corporation)
 
